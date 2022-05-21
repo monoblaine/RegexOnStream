@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RegexRemoveFromStream")]
+[assembly: AssemblyTitle("RegexOnStream")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Serhan Apaydın")]
-[assembly: AssemblyProduct("RegexRemoveFromStream")]
+[assembly: AssemblyProduct("RegexOnStream")]
 [assembly: AssemblyCopyright("Copyright © Serhan Apaydın 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c4bba241-dbec-4648-b6d9-f3265448fbe4")]
+[assembly: Guid("7eae9140-bf87-434b-af95-f7df9ed331f2")]
 
 // Version information for an assembly consists of the following four values:
 //
